@@ -7,6 +7,17 @@
 九章算法题目列表： https://drive.google.com/file/d/12oo68w4AafEGyvQZ1BA7Xgb6auITUQjP/view?usp=sharing \
 代码随想录刷题攻略： https://github.com/youngyangyang04/leetcode-master
 
+做题方式： \
+1. 5分钟读懂题 + 想思路，如果完全没有想法就看答案吧
+2. 想出各种cases
+3. 检查思路是否适用
+4. 白板写代码
+5. 跑的时候bugfree
+
+每题时间：\
+1 个半小时 4 道题： 1 简单，2 中等，1 困难\
+大概easy 10, medium20, hard30\
+
 题目：(Jan/2/21 update)
 
 **Binary Search 二分搜索**
