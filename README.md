@@ -7,7 +7,7 @@
 九章算法题目列表： https://drive.google.com/file/d/12oo68w4AafEGyvQZ1BA7Xgb6auITUQjP/view?usp=sharing \
 代码随想录刷题攻略： https://github.com/youngyangyang04/leetcode-master
 
-做题方式： \
+做题方式：
 1. 5分钟读懂题 + 想思路，如果完全没有想法就看答案吧
 2. 想出各种cases
 3. 检查思路是否适用
@@ -39,7 +39,7 @@ Id	Name	Similar Difficulty	Comments\
 378.Kth Smallest Element in a Sorted Matrix\
    668 ★★★★	kth + matrix\
 719.Find K-th Smallest Pair Distance\
-   786 ★★★★	kth + two pointers\
+   786 ★★★★	kth + two pointers
    
 九章(lintcode):\
 ★\
@@ -62,10 +62,10 @@ Id	Name	Similar Difficulty	Comments\
 61.Search for a Range\
 462.Total Occurrence of Target\
 600.Smallest Rectangle Enclosing Black Pixels\
-437.Copy Books\
-\
+437.Copy Books
 
-**Two Pointers 双指针**\
+
+**Two Pointers 双指针**
 
 花花酱：\
 11.Container With Most Water\
@@ -79,7 +79,7 @@ Id	Name	Similar Difficulty	Comments\
 167.Two Sum II – Input array is sorted\
    15	16 ★★★						\
 992.Subarrays with K Different Integers\
-   ★★★★								\
+   ★★★★								
 
 九章:\
 ★\
@@ -115,8 +115,8 @@ Id	Name	Similar Difficulty	Comments\
 144.Interleaving Positive and Negative Numbers\
 49.Sort Letters by Case\
 148.Sort Colors\
-894.Pancake Sorting\
-\
+894.Pancake Sorting
+
 
 **BFS & Topological Sort & DFS 宽度/深度优先搜索**
 
@@ -129,7 +129,7 @@ Combination\
 79	Word Search	★★★	212							DFS\
 127	Word Ladder	★★★★	126	752	818					BFS\
 542	01 Matrix	★★★	675	934						BFS\
-698	Partition to K Equal Sum Subsets	★★★	93	131	241	282	842	Partition\
+698	Partition to K Equal Sum Subsets	★★★	93	131	241	282	842	Partition
 
 九章：\
 BFS:\
@@ -171,10 +171,10 @@ DFS:\
 582.Word Break II\
 192.Wildcard Matching\
 154.Regular Expression Matching\
-90.k Sum II\
+90.k Sum II
 
-\
-**Binary Tree & Tree-based DFS & BST 二叉搜索树**\
+
+**Binary Tree & Tree-based DFS & BST 二叉搜索树**
 
 花花酱：\
 98.Validate Binary Search Tree\
@@ -190,7 +190,7 @@ DFS:\
 501.Find Mode in Binary Search Tree\
    ★★★ inorder\
 450.Delete Node in a BST\
-   ★★★★	binary search\
+   ★★★★	binary search
 
 九章：\
 ★\
@@ -216,10 +216,10 @@ DFS:\
 67.Binary Tree Inorder Traversal\
 11.Search Range in Binary Search Tree\
 85.Insert Node in a Binary Search Tree\
-87.Remove Node in Binary Search Tree \
+87.Remove Node in Binary Search Tree 
 
-\
-**Tree 树**\
+
+**Tree 树**
 
 花花酱：\
 94.Binary Tree Inorder Traversal\
@@ -242,10 +242,10 @@ DFS:\
 124.Binary Tree Maximum Path Sum\
    543	687 ★★★	Use both children, return\ one
 968.Binary Tree Cameras\
-   337	979	★★★★\
+   337	979	★★★★
 
-\
-**Divide and Conquer 分治**\
+
+**Divide and Conquer 分治**
 
 花花酱：\
 169.Majority Element\
@@ -255,10 +255,10 @@ DFS:\
 912.Sort and Array\
     ★★★	merge sort\
 315.Count of Smaller Numbers After Self\
-    ★★★★	merge sort / BIT\
+    ★★★★	merge sort / BIT
 
-\
-**List 链表**\
+
+**List 链表**
 
 花花酱：\
 2.Add Two Numbers\
@@ -276,10 +276,10 @@ DFS:\
 148.Sort List\
   ★★★★	merge sort O(1) space\
 707.Design Linked List\
-  ★★★★\
-  \
+  ★★★★
+  
 
-**Graph & permutation-based+graph-based DS\F 图 & 排列/图的dfs**\
+**Graph & permutation-based+graph-based DS\F 图 & 排列/图的dfs**
 
 花花酱：\
 133.Clone Graph\
@@ -311,7 +311,7 @@ DFS:\
 943.Find the Shortest Superstring\
    980	996 ★★★★★	Hamiltonian path (DFS / DP)\
 959.Regions Cut By Slashes\
-   ★★★★★	union find / grid + CCs\
+   ★★★★★	union find / grid + CCs
 
 九章\
 ★★\
@@ -331,10 +331,10 @@ DFS:\
 190.Next Permutation II\
 197.Permutation Index\
 198.Permutation Index II\
-132.Word Search II\
+132.Word Search II
 
-\
-**Stack,Queue,Hash,Heap**\
+
+**Stack,Queue,Hash,Heap**
 
 九章：\
 ★\
@@ -362,10 +362,10 @@ DFS:\
 81.Find Median from Data Stream\
 613.High Five\
 486.Merge K Sorted Arrays\
-401.Kth Smallest Number in Sorted Matrix\
+401.Kth Smallest Number in Sorted Matrix
 
-\
-**Interval, array, matrix, binary indexed tree**\
+
+**Interval, array, matrix, binary indexed tree**
 
 九章：\
 ★\
@@ -392,10 +392,10 @@ DFS:\
 943.Range Sum Query - Immutable \
 665.Range Sum Query 2D - Immutable \
 817.Range Sum Query 2D - Mutable \
-249.Count of Smaller Number before itself\
- \
+249.Count of Smaller Number before itself
+ 
 
-**Advanced** \
+**Advanced** 
 
 花花酱：\
 208.Implement Trie (Prefix Tree)\
@@ -405,8 +405,8 @@ DFS:\
 901.Online Stock Span\
    907	1019 ★★★	monotonic stack\
 239.Sliding Window Maximum\
-   ★★★	monotonic queue\
-\
+   ★★★	monotonic queue
+
 
 **DP**
 
@@ -454,7 +454,7 @@ DFS:\
 546.Remove Boxes\
    ★★★★★	I: O(n), S = O(n^3), T = O(n^4)\
 943.Find the Shortest Superstring\
-   980	996	1125 ★★★★★	I: O(n), S = O(n*2^n), T = (n^2*2^n)\
+   980	996	1125 ★★★★★	I: O(n), S = O(n*2^n), T = (n^2*2^n)
 
 九章\
 ★\
