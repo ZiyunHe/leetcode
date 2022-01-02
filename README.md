@@ -16,7 +16,7 @@
 
 每题时间：\
 1 个半小时 4 道题： 1 简单，2 中等，1 困难\
-大概easy 10, medium20, hard30\
+大概easy 10, medium20, hard30
 
 题目：(Jan/2/21 update)
 
@@ -225,22 +225,23 @@ DFS:\
 94.Binary Tree Inorder Traversal\
    144	145	429	589	590 987	1302 ★	traversal\
 100.Same Tree\
-   101	104	110	111	572 965	 ★★				\		
+   101	104	110	111	572 965	 ★★\		
 102.Binary Tree Level Order Traversal\
    107	429	872 ★★	collecting nodes\
 814.Binary Tree Pruning\
-   669	1325 ★★★				\
+   669 1325 ★★★\
 112.Path Sum\
-   113	437 ★★★					\
-129.Sum Root to Leaf Numbers	★★★	257				\	
+   113 437 ★★★					\
+129.Sum Root to Leaf Numbers
+   257 ★★★\	
 236.Lowest Common Ancestor of a Binary Tree\
-   235 ★★★						\
+   235 ★★★\
 297.Serialize and Deserialize Binary Tree\
-   449 ★★★					\
+   449 ★★★\
 508.Most Frequent Subtree Sum\
-   ★★★						\
+   ★★★\
 124.Binary Tree Maximum Path Sum\
-   543	687 ★★★	Use both children, return\ one
+   543	687 ★★★	Use both children, return one\
 968.Binary Tree Cameras\
    337	979	★★★★
 
@@ -251,7 +252,7 @@ DFS:\
 169.Majority Element\
     ★★	你知道茴香豆的茴有几种写法吗？\
 153.Find Minimum in Rotated Sorted Array\
-    ★★	154				\	\
+    ★★	154\
 912.Sort and Array\
     ★★★	merge sort\
 315.Count of Smaller Numbers After Self\
