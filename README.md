@@ -3,7 +3,7 @@
 从零开始leetcode
 
 参考资源：\
-花花酱题目列表： https://zxi.mytechroad.com/blog/leetcode-problem-categories/ \
+花花酱题目列表： https://docs.google.com/spreadsheets/d/1yRCOJ8KysRVkq0O9IlDriT01tC6lzPapmFO4PCmDJQA/edit?usp=sharing \
 九章算法题目列表： https://drive.google.com/file/d/12oo68w4AafEGyvQZ1BA7Xgb6auITUQjP/view?usp=sharing \
 代码随想录刷题攻略： https://github.com/youngyangyang04/leetcode-master
 
@@ -382,9 +382,9 @@ DFS:\
 665.Range Sum Query 2D - Immutable \
 817.Range Sum Query 2D - Mutable \
 249.Count of Smaller Number before itself\
-\
+ \
 
-**Advanced**\
+**Advanced** \
 
 花花酱：\
 208.Implement Trie (Prefix Tree)\
