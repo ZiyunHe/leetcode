@@ -19,6 +19,8 @@
 1 个半小时 4 道题： 1 简单，2 中等，1 困难\
 大概easy 10, medium20, hard30
 
+生成做题/复习计划表格：https://exam4.us/
+
 题目：(Jan/2/21 update)
 
 **Binary Search 二分搜索**
