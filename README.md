@@ -53,7 +53,6 @@ Id	Name	Similar Difficulty	Comments\
 585.Maximum Number in Mountain Sequence\
 460.Find K Closest Elements\
 447.Search in a Big Sorted Array\
-428.Pow(x, n)\
 159.Find Minimum in Rotated Sorted Array 140.Fast Power\
 140.Fast Power\
 75.Find Peak Element\
@@ -397,7 +396,7 @@ DFS:\
 665.Range Sum Query 2D - Immutable \
 817.Range Sum Query 2D - Mutable \
 249.Count of Smaller Number before itself
- 
+
 
 **Advanced** 
 
@@ -410,6 +409,12 @@ DFS:\
    907	1019 ★★★	monotonic stack\
 239.Sliding Window Maximum\
    ★★★	monotonic queue
+
+
+**Others**
+
+recursion\
+50.Pow(x, n)\
 
 
 **DP**
