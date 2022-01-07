@@ -55,6 +55,7 @@ Id	Name	Similar Difficulty	Comments\
 447.Search in a Big Sorted Array\
 159.Find Minimum in Rotated Sorted Array 140.Fast Power\
 140.Fast Power\
+50.Pow(x, n)\
 75.Find Peak Element\
 74.First Bad Version\
 62.Search in Rotated Sorted Array\
@@ -409,12 +410,6 @@ DFS:\
    907	1019 ★★★	monotonic stack\
 239.Sliding Window Maximum\
    ★★★	monotonic queue
-
-
-**Others**
-
-recursion\
-50.Pow(x, n)\
 
 
 **DP**
