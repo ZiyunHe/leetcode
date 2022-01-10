@@ -9,3 +9,5 @@ while l < r:
         r = mid - 1
     else:
         l = mid
+https://www.youtube.com/watch?v=yfWVWbi9pts
+这个视频里有讲解s，e
