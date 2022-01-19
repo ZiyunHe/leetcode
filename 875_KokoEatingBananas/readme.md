@@ -1,0 +1,1 @@
+python syntax b if a > 10 else c
