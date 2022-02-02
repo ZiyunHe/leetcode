@@ -1,5 +1,6 @@
 """
 binary search problem
+solution video: https://www.youtube.com/watch?v=q6IEA26hvXc
 """
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
