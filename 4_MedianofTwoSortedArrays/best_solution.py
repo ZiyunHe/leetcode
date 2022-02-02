@@ -6,7 +6,7 @@ class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         A, B = nums1, nums2
         if len(A) > len(B):
-            A, B = B, A # A is the shorter one
+            A, B = B, A # after swap, A is the shorter one
         
         lenA, lenB = len(A), len(B)
         total = lenA + lenB
