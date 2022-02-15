@@ -32,4 +32,28 @@ class Solution:
             else:
                 e = mid - 1
         return s
+
+
+# faster
+class Solution:
+    def findKthNumber(self, m: int, n: int, k: int) -> int:
+        if m > n:
+            m, n = n, m
         
+        def nums_le(x):
+            q = x // n
+            res = q * n
+            for i in range(q+1, m+1):
+                res += x // i
+            return res
+        
+        lo, hi = 1, m * n
+        
+        while lo < hi:
+            mid = (lo + hi) // 2
+            if nums_le(mid) < k:
+                lo = mid + 1
+            else:
+                hi = mid
+                
+        return lo
