@@ -2,7 +2,7 @@ class Solution(object):
     def findKthNumber(self, m, n, k):
         def enough(x):
             count = 0
-            for i in xrange(1, m+1):
+            for i in range(1, m+1):
                 count += min(x // i, n)
             return count >= k
 
