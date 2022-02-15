@@ -1,0 +1,1 @@
+there are += min(x // i, n) values in that row that are less than or equal to x.
