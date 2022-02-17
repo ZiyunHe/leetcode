@@ -23,3 +23,7 @@ What's really nice of this template is that, for most of the binary search probl
 Correctly initialize the boundary variables left and right. Only one rule: set up the boundary to include all possible elements;
 Decide return value. Is it return left or return left - 1? Remember this: after exiting the while loop, left is the minimal k​ satisfying the condition function;
 Design the condition function. This is the most difficult and most beautiful part. Needs lots of practice.
+
+
+这道题的中心思想：
+从零到最大中， 用bs方法随便定义一个distance的值，然后看小于这个值的有多少个，是否符合k个的给定目标，如果符合，那这个定义的distance就是答案了。
