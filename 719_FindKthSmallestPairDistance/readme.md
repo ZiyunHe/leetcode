@@ -27,3 +27,5 @@ Design the condition function. This is the most difficult and most beautiful par
 
 这道题的中心思想：
 从零到最大中， 用bs方法随便定义一个distance的值，然后看小于这个值的有多少个，是否符合k个的给定目标，如果符合，那这个定义的distance就是答案了。
+找小于distance的count#的时候 不要用两个forloop不停从头到尾双指针
+j的指针是while定义的 不停的+1就可以 当i增加的时候 j也不需要从头来过
