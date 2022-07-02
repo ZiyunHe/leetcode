@@ -8,6 +8,7 @@
 代码随想录刷题攻略： https://github.com/youngyangyang04/leetcode-master \
 图灵栖息地刷题表 https://turingplanet.org/2020/09/18/leetcode_planning_list/ \
 LeetCode难题代码和算法要点分析w/ youtube video:  https://github.com/wisdompeak/LeetCode
+Blind75: https://www.techinterviewhandbook.org/best-practice-questions/
 
 做题方式：
 1. 5分钟读懂题 + 想思路，如果完全没有想法就看答案吧
