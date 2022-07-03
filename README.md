@@ -7,7 +7,7 @@
 九章算法题目列表： https://drive.google.com/file/d/12oo68w4AafEGyvQZ1BA7Xgb6auITUQjP/view?usp=sharing \
 代码随想录刷题攻略： https://github.com/youngyangyang04/leetcode-master \
 图灵栖息地刷题表 https://turingplanet.org/2020/09/18/leetcode_planning_list/ \
-LeetCode难题代码和算法要点分析w/ youtube video:  https://github.com/wisdompeak/LeetCode
+LeetCode难题代码和算法要点分析w/ youtube video:  https://github.com/wisdompeak/LeetCode \
 Blind75: https://www.techinterviewhandbook.org/best-practice-questions/
 
 做题方式：
